@@ -1,3 +1,9 @@
+# Token
+token.json
+
+# Compiled JS
+*.js
+
 # Logs
 logs
 *.log
